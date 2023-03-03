@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -40,3 +41,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # react-beautiful-dnd
 >>>>>>> 13fabbbcc8d727f70f6ec6b7d42a16b54a193163
+=======
+# React-beuriful-dnd
+>>>>>>> 55f319a3b8d00a161f13356693f3c7234d102f71
